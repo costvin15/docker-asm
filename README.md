@@ -5,5 +5,5 @@ Compilar todos os códigos .asm no diretório e executá-los, em um container do
 * Docker
 * Docker Compose
 ## Como usar:
-- docker-compose build
+- docker-compose build # Necessário apenas na primeira execução
 - docker-compose up
